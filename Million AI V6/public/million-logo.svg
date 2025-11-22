@@ -1,0 +1,43 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .logo-text { font-family: Arial, sans-serif; font-weight: bold; letter-spacing: 8px; }
+    </style>
+  </defs>
+  
+  <g fill="white">
+    <!-- Left Wing -->
+    <path d="M120 140 L80 100 L90 110 L100 90 L110 100 L120 80 L130 90 L140 70 L150 80 L160 120 Z" opacity="0.9"/>
+    <path d="M110 150 L70 120 L80 130 L90 110 L100 120 L110 100 L120 110 L130 90 L140 100 L150 130 Z" opacity="0.7"/>
+    <path d="M100 160 L60 140 L70 150 L80 130 L90 140 L100 120 L110 130 L120 110 L130 120 L140 145 Z" opacity="0.5"/>
+    
+    <!-- Right Wing -->
+    <path d="M280 140 L320 100 L310 110 L300 90 L290 100 L280 80 L270 90 L260 70 L250 80 L240 120 Z" opacity="0.9"/>
+    <path d="M290 150 L330 120 L320 130 L310 110 L300 120 L290 100 L280 110 L270 90 L260 100 L250 130 Z" opacity="0.7"/>
+    <path d="M300 160 L340 140 L330 150 L320 130 L310 140 L300 120 L290 130 L280 110 L270 120 L260 145 Z" opacity="0.5"/>
+    
+    <!-- Left Sword -->
+    <path d="M170 120 L160 200 L170 200 L180 120 Z"/>
+    <path d="M155 115 L185 115 L182 105 L158 105 Z"/>
+    <path d="M165 200 L175 200 L173 210 L167 210 Z"/>
+    
+    <!-- Right Sword -->
+    <path d="M230 120 L240 200 L230 200 L220 120 Z"/>
+    <path d="M245 115 L215 115 L218 105 L242 105 Z"/>
+    <path d="M235 200 L225 200 L227 210 L233 210 Z"/>
+    
+    <!-- Center Shield/Diamond -->
+    <path d="M200 130 L180 160 L200 190 L220 160 Z" opacity="0.8"/>
+    <path d="M200 140 L190 160 L200 180 L210 160 Z" opacity="0.6"/>
+    <path d="M200 150 L195 160 L200 170 L205 160 Z" opacity="0.4"/>
+    
+    <!-- Crossed swords effect in center -->
+    <path d="M190 150 L210 170" stroke="white" stroke-width="2" opacity="0.3"/>
+    <path d="M210 150 L190 170" stroke="white" stroke-width="2" opacity="0.3"/>
+  </g>
+  
+  <!-- MILLION Text -->
+  <text x="200" y="280" class="logo-text" font-size="48" text-anchor="middle" fill="white">
+    MILLION
+  </text>
+</svg>
